@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: Train All
+## Notes: Shift-click Train/all to learn every available skill.
+## Author: SDPhantom
+## Version: 1.4.2-335
+
+TrainAll.lua
